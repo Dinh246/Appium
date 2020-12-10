@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should navigate to home menu",
+    "uid" : "83a623255c17f41e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607567630179,
+      "stop" : 1607567635062,
+      "duration" : 4883
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "emulator-5554-10" ]
+  } ]
+}

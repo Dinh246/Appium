@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607567630179' stop='1607567635064'>
+    <name>Fist time open App</name>
+    <title>Fist time open App</title>
+    <test-cases>
+        <test-case start='1607567630179' status='passed' stop='1607567635062'>
+            <name>should navigate to home menu</name>
+            <title>should navigate to home menu</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554-10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

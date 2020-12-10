@@ -1,0 +1,11 @@
+[ {
+  "uid" : "83a623255c17f41e",
+  "name" : "should navigate to home menu",
+  "time" : {
+    "start" : 1607567630179,
+    "stop" : 1607567635062,
+    "duration" : 4883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

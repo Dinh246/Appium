@@ -1,0 +1,58 @@
+{
+  "uid" : "83a623255c17f41e",
+  "name" : "should navigate to home menu",
+  "fullName" : "Fist time open App.should navigate to home menu",
+  "historyId" : "6f877879f2908574dc28c42d2d66168e",
+  "time" : {
+    "start" : 1607567630179,
+    "stop" : 1607567635062,
+    "duration" : 4883
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Fist time open App"
+  }, {
+    "name" : "testClass",
+    "value" : "Fist time open App"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to home menu"
+  }, {
+    "name" : "package",
+    "value" : "Fist time open App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83a623255c17f41e.json",
+  "parameterValues" : [ "emulator-5554-10" ]
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Fist time open App",
+    "children" : [ {
+      "name" : "should navigate to home menu",
+      "uid" : "83a623255c17f41e",
+      "parentUid" : "ffcd7d5e10fe81ff72cfd0875ed0ae05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607567630179,
+        "stop" : 1607567635062,
+        "duration" : 4883
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "emulator-5554-10" ]
+    } ],
+    "uid" : "ffcd7d5e10fe81ff72cfd0875ed0ae05"
+  } ]
+}

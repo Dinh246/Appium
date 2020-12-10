@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 10 09:33:50 ICT 2020","Thu Dec 10 09:33:55 ICT 2020","4883","","Fist time open App","","Fist time open App","should navigate to home menu","should navigate to home menu",""
